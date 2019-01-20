@@ -1,0 +1,14 @@
+
+
+Q. java program is used to find the greatest among two numbers.
+
+
+step 1: create a class eg. Class name Greatestnum.
+
+step 2: declare main method eg. 
+
+step 3: declare a variable with data type and it's value . eg int a=50 ; b=60;
+
+step 4: use a control statement eg : selection statement if used.
+
+step 5: print the statement .eg system.out.println("b is the greatest); 
